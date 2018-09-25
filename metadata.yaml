@@ -1,5 +1,8 @@
 _repo: Humility-The-Beauty-of-Holiness_57121
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Murray, Andrew
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4672
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Murray_%28minister%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57121#Humility-The-Beauty-of-Holiness
 gutenberg_issued: '2018-05-09'
 gutenberg_type: Text
 identifiers:
